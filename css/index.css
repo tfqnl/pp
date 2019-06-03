@@ -1,0 +1,91 @@
+
+.img{
+    width: 100%;
+    height: 500px;
+    background: red;
+    position: relative;
+}
+.img img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.product{
+    width: 100%;
+}
+.product h2{
+    text-align: center;
+    padding: 30px 0 0 0 ;
+    font-weight: 500;
+    font-size: 25px;
+}
+.product ul{
+    margin-top: 5px;
+}
+.product ul li{
+    width: 22%;
+    text-align: center;
+}
+.product ul li img{
+    width: 65px;
+}
+.product ul li p{
+    /* text-align: left; */
+}
+.product ul li h1{
+    font-size: 25px;
+    font-weight: 500;
+    padding: 10px 0 10px 0;
+}
+.means{
+    justify-content: space-between
+}
+.bottom{
+    width: 100%;
+    height: 250px;
+    background: #232940;
+    margin-top: 30px;
+}
+.site{
+    margin-left:150px;
+}
+.relation{
+    font-size: 16px;
+    color: #fff;
+    margin-top: 30px;
+
+}
+.borders{
+    display: block;
+    width: 400px ;
+    height: 2px;
+    background: #fff;
+    margin-top: 20px;
+}
+.bottom ol{
+    margin-top: 20px;
+}
+.bottom ol li{
+   padding: 5px 0 5px 0; 
+}
+.bottom ol li a{
+    font-size: 14px;
+    color: #fff;
+    
+}
+.put{
+    text-align: center;
+    margin-top: 20px;
+}
+.put p{
+    font-size: 12px;
+    color: #fff;
+}
+.put span{
+    display: block;
+    font-size: 12px;
+    color: #fff;
+    margin-top: 10px;
+}

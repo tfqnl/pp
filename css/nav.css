@@ -1,0 +1,36 @@
+.nav{
+    width: 100%;
+    background-color:#f7f7f7;
+    padding:10px 0 10px 0;
+}
+.names{
+    width: 25%;
+    background: #e03132;
+    /* padding: 20px 0 20px 0; */
+   
+}
+.names p{
+    font-size: 30px;
+    padding: 5px;
+    color: #fff;
+
+}
+.mean{
+    justify-content: space-between;
+}
+.mean ul li{
+    text-align: center;
+    padding: 0 40px 0 40px;
+    /* background: red;    */
+   
+}
+.mean ul li a{
+    display: block;
+    margin-top: 5px;
+}
+.mean ul li p{
+    padding: 10px 0 0 0 ;
+}
+.mean ul li:nth-child(4){
+    padding-right: 0;
+}
