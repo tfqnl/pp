@@ -66,4 +66,25 @@
 .means{
     justify-content: space-between
 }
+.bottoms{
+    width: 100%;
+    background:#999999;
+    /* overflow: hidden; */
+    padding: 20px 0 20px 0;
+    /* margin-top: 20px; */
+}
+.put{
+    text-align: center;
+    /* margin-top: 30px; */
+}
+.put p{
+    font-size: 12px;
+    color: #fff;
+}
+.put span{
+    display: block;
+    font-size: 12px;
+    color: #fff;
+    margin-top: 10px;
+}
 

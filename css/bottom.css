@@ -22,7 +22,7 @@
 @media screen and (min-width:1920px) {
     .bottoms{
         width: 100%;
-        background:#232940;
+        background:#999999;
         padding: 20px 0 20px 0;
         margin-top: 20px;
         position: absolute;
@@ -34,7 +34,7 @@
 @media screen and (min-width:1680px) {
     .bottoms{
         width: 100%;
-        background:#232940;
+        background:#999999;
         padding: 20px 0 20px 0;
         margin-top: 20px;
         position: absolute;
