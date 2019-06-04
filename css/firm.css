@@ -1,7 +1,7 @@
 .center{
     width: 100%;
     height: 600px;
-    background: red;
+    /* background: red; */
 }
 .center img{
     width: 100%;
@@ -126,7 +126,7 @@
 }
 .bottoms{
     width: 100%;
-    background:#232940;
+    background:#999999;
     /* overflow: hidden; */
     padding: 20px 0 20px 0;
     /* margin-top: 20px; */

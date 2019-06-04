@@ -5,9 +5,9 @@
 }
 .names{
     width: 25%;
-    background: #e03132;
+    /* background: #e03132; */
     /* padding: 20px 0 20px 0; */
-   
+    margin-top: 7px;
 }
 .names p{
     font-size: 30px;
@@ -17,6 +17,11 @@
 }
 .mean{
     justify-content: space-between;
+}
+.mean img{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
 }
 .mean ul li{
     text-align: center;

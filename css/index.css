@@ -17,35 +17,76 @@
 }
 .product h2{
     text-align: center;
-    padding: 30px 0 0 0 ;
+    padding: 40px 0 0 0 ;
     font-weight: 500;
     font-size: 25px;
 }
 .product ul{
-    margin-top: 5px;
+    margin-top: 30px;
 }
 .product ul li{
-    width: 22%;
+    width: 33%;
     text-align: center;
+    position: relative;
 }
 .product ul li img{
-    width: 65px;
+    width: 310px
 }
 .product ul li p{
     /* text-align: left; */
+    font-size: 20px;
+    color: red;
+    
 }
 .product ul li h1{
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 500;
     padding: 10px 0 10px 0;
+    color: #989898;
 }
 .means{
     justify-content: space-between
 }
+.ppd i{
+    font-size: 20px;
+    color: red;
+    font-style: normal;
+}
+.textst{
+      /* text-align: left; */
+      font-size: 16px;
+      color: #989898;
+}
+.ball_hot{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    background-image:linear-gradient(120deg,#ff3149,#ff64a6);
+    color: #fff;
+    font-size: 16px;
+    line-height: 50px;
+    position: absolute;
+    left:0px;
+    top: -15px;
+    
+}
+.ball_dep{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    background-image: linear-gradient(120deg,#2e74f6,#56bdf9);
+    color: #fff;
+    font-size: 16px;
+    line-height: 50px;
+    position: absolute;
+    left:0px;
+    top: -15px;
+    
+}
 .bottom{
     width: 100%;
     height: 250px;
-    background: #232940;
+    background: #999999;
     margin-top: 30px;
 }
 .site{
